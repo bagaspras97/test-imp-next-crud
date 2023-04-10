@@ -15,10 +15,10 @@ List any prerequisites required to run this project. If there are none, you can 
 ## Installation
 
 1. Clone the repository.
-git clone https://github.com/username/repo-name.git
+https://github.com/bagaspras97/test-imp-next-crud.git
 
 2. Install dependencies.
-cd repo-name
+cd [repo-name]
 npm install
 
 3. Start the application.
