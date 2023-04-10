@@ -6,6 +6,7 @@ This is a CRUD (Create, Read, Update, Delete) application built with Next.js and
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Technology Stack](#technology-stack)
 
 ## Prerequisites
@@ -28,8 +29,8 @@ npm run dev
 To use the application, go to http://localhost:3000 in your web browser. From there, you can create, read, update, and delete data from the API.
 
 ## Technology Stack
-Next.js
-React
-React Query
-Chakra UI
-JSONPlaceholder API
+- Next JS
+- React JS
+- React Query
+- Chakra UI
+- React Hook Form
