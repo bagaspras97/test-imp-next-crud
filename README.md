@@ -1,6 +1,6 @@
 # CRUD Application using Next.js and JSONPlaceholder API
 
-This is a CRUD (Create, Read, Update, Delete) application built with Next.js and the public API from JSONPlaceholder. The application allows users to create, read, update, and delete data from the API.
+This is a CRUD (Create, Read, Update, Delete) application built with Next.js and the public API from JSONPlaceholder.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This is a CRUD (Create, Read, Update, Delete) application built with Next.js and
 
 ## Prerequisites
 
-List any prerequisites required to run this project. If there are none, you can omit this section.
+List any prerequisites required to run this project.
 
 ## Installation
 
@@ -26,7 +26,7 @@ npm install
 npm run dev
 
 ## Usage
-To use the application, go to http://localhost:3000 in your web browser. From there, you can create, read, update, and delete data from the API.
+To use the application, go to http://localhost:3000 in your web browser.
 
 ## Technology Stack
 - Next JS
